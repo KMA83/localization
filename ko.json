@@ -2144,7 +2144,7 @@
   "theVehicleRejectedTheCommandBecauseTheBatteryLevelIs": "배터리 잔량이 너무 낮아 차량에서 명령을 거부했습니다.",
   "solution": "해결 방법",
   "defaultTitle": "기본값",
-  "notificationsAreEnabledOnThisDevice": "이 기기에서 알림이 활성회되었습니다.",
+  "notificationsAreEnabledOnThisDevice": "이 기기에서 알림이 활성화되었습니다.",
   "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "이 차량과 연관된 모든 데이터는 영구 삭제됩니다. 이 조치는 취소할 수 없습니다.",
   "noAlertsFound": "경고가 없습니다.",
   "wereMonitoringForFirmwareAlerts": "펌웨어 경고를 모니터링 중입니다.",
